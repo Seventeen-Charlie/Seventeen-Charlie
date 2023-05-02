@@ -10,7 +10,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Seventeen-Charlie.Seventeen-Charlie&"  />
+  <img src="https://profile-counter.glitch.me/Seventeen-Charlie/count.svg?"  />
 </div>
 
 ###
